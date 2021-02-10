@@ -37,6 +37,14 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		//More things to come 
+
+	    // Das ist der erste Kommentar in masterGithub
+	    // Das ist der zweite Kommentar in master
+	    // auch noch ein Kommentar von Ruth
+	    //Hier ist ein weiterer Kommentar
+	    //Ist so schön, gibt noch einen weiteren!!
+	    // Jochen hat alle Kommentare entfernt.
+
 		new Equals();
 		new Minus();
 		new Plus();
